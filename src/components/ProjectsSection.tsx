@@ -33,7 +33,7 @@ const PROJECTS: ProjectData[] = [
     category: 'Full-Stack · React · Node.js',
     name: 'FSD-Portfolio',
     description: 'A full-stack developer portfolio built with modern web technologies and concepts.',
-    liveUrl: '#',
+    liveUrl: 'https://fsd-portfolio-seven.vercel.app/',
     sourceCodeUrl: 'https://github.com/VinayKumarMakvana/FSD-Portfolio',
     col1Image1: '/fsd-preview1.png',
     col1Image2: '/fsd-preview2.png',
